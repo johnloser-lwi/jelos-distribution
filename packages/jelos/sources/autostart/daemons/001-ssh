@@ -1,4 +1,0 @@
-STATE=$(get_setting ssh.enabled)
-SVC="sshd"
-CONF="sshd.conf"
-DAEMONS=("sshd")
